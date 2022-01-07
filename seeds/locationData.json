@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Enchanted Rock",
+    "state_id": 50
+  },
+  {
+    "id": 2,
+    "name": "Red River Gorge",
+    "state_id": 20
+  },
+  {
+    "id": 3,
+    "name": "Yosemite Valley",
+    "state_id": 5
+  },
+  {
+    "id": 4,
+    "name": "Lake Tahoe",
+    "state_id": 5
+  },
+  {
+    "id": 5,
+    "name": "Reimers Ranch",
+    "state_id": 50
+  }
+
+]

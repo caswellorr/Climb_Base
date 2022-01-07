@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "review": "high stoke",
+    "rating": 5,
+    "route_id": 1,
+    "user_id": 1
+  },
+  {
+    "id": 11,
+    "review": "medium stoke",
+    "rating": 3,
+    "route_id": 1,
+    "user_id": 2
+  },
+  {
+    "id": 12,
+    "review": "laaaaaame",
+    "rating": 1,
+    "route_id": 1,
+    "user_id": 3
+  },
+  {
+    "id": 2,
+    "review": "excellent",
+    "rating": 5,
+    "route_id": 2,
+    "user_id": 2
+  },
+  {
+    "id": 3,
+    "review": "stellar",
+    "rating": 5,
+    "route_id": 3,
+    "user_id": 3
+  },
+  {
+    "id": 4,
+    "review": "stellar",
+    "rating": 2,
+    "route_id": 4,
+    "user_id": 3
+  },
+  {
+    "id": 5,
+    "review": "stoked",
+    "rating": 5,
+    "route_id": 5,
+    "user_id": 1
+  },
+  {
+    "id": 6,
+    "review": "stellar",
+    "rating": 4,
+    "route_id": 6,
+    "user_id": 2
+  },
+  {
+    "id": 7,
+    "review": "stellar",
+    "rating": 5,
+    "route_id": 7,
+    "user_id": 3
+  },
+  {
+    "id": 8,
+    "review": "stellar",
+    "rating": 5,
+    "route_id": 8,
+    "user_id": 3
+  },
+  {
+    "id": 9,
+    "review": "stellar",
+    "rating": 1,
+    "route_id": 9,
+    "user_id": 1
+  },
+  {
+    "id": 10,
+    "review": "stellar",
+    "rating": 3,
+    "route_id": 10,
+    "user_id": 2
+  }
+]

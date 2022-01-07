@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Buzzard's Roost",
+    "location_id": 1,
+    "height": 425
+  },
+  {
+    "id": 2,
+    "name": "Wall of Denial",
+    "location_id": 2,
+    "height": 100
+  },
+  {
+    "id": 3,
+    "name": "Cathedral Rock",
+    "location_id": 3,
+    "height": 6648
+  },
+  {
+    "id": 4,
+    "name": "Lover's Leap",
+    "location_id": 4,
+    "height": 400
+  },
+  {
+    "id": 5,
+    "name": "Dr. Seuss",
+    "location_id": 5,
+    "height": 300
+  }
+
+]
